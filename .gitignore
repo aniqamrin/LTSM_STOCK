@@ -1,0 +1,15 @@
+# secrets / local config
+.env
+
+# frontend deps & build output
+node_modules/
+dist/
+
+# python cruft
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS junk
+Thumbs.db
+.DS_Store

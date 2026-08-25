@@ -1,0 +1,162 @@
+[
+  {
+    "ticker": "AAPL",
+    "model": "LSTM-Sentiment",
+    "rmse": 109.4214,
+    "mae": 106.5282,
+    "mape": 51.294,
+    "directional_accuracy": 47.89
+  },
+  {
+    "ticker": "AAPL",
+    "model": "LSTM-Only",
+    "rmse": 42.4873,
+    "mae": 36.087,
+    "mape": 16.5352,
+    "directional_accuracy": 54.02
+  },
+  {
+    "ticker": "AAPL",
+    "model": "ARIMA",
+    "rmse": 19.1034,
+    "mae": 15.7119,
+    "mape": 8.164,
+    "directional_accuracy": 55.56
+  },
+  {
+    "ticker": "AAPL",
+    "model": "SVR",
+    "rmse": 27.6894,
+    "mae": 21.131,
+    "mape": 9.5086,
+    "directional_accuracy": 53.26
+  },
+  {
+    "ticker": "MSFT",
+    "model": "LSTM-Sentiment",
+    "rmse": 222.6799,
+    "mae": 221.7717,
+    "mape": 53.6248,
+    "directional_accuracy": 44.06
+  },
+  {
+    "ticker": "MSFT",
+    "model": "LSTM-Only",
+    "rmse": 221.4674,
+    "mae": 220.5542,
+    "mape": 53.329,
+    "directional_accuracy": 48.28
+  },
+  {
+    "ticker": "MSFT",
+    "model": "ARIMA",
+    "rmse": 48.978,
+    "mae": 44.9685,
+    "mape": 10.69,
+    "directional_accuracy": 45.59
+  },
+  {
+    "ticker": "MSFT",
+    "model": "SVR",
+    "rmse": 83.717,
+    "mae": 76.7998,
+    "mape": 18.3999,
+    "directional_accuracy": 45.98
+  },
+  {
+    "ticker": "TSLA",
+    "model": "LSTM-Sentiment",
+    "rmse": 114.4248,
+    "mae": 91.4272,
+    "mape": 35.4389,
+    "directional_accuracy": 50.19
+  },
+  {
+    "ticker": "TSLA",
+    "model": "LSTM-Only",
+    "rmse": 69.0184,
+    "mae": 48.3335,
+    "mape": 19.72,
+    "directional_accuracy": 52.49
+  },
+  {
+    "ticker": "TSLA",
+    "model": "ARIMA",
+    "rmse": 69.3256,
+    "mae": 52.1089,
+    "mape": 22.6257,
+    "directional_accuracy": 49.43
+  },
+  {
+    "ticker": "TSLA",
+    "model": "SVR",
+    "rmse": 23.6279,
+    "mae": 14.648,
+    "mape": 5.5438,
+    "directional_accuracy": 46.74
+  },
+  {
+    "ticker": "NVDA",
+    "model": "LSTM-Sentiment",
+    "rmse": 73.5064,
+    "mae": 67.6773,
+    "mape": 60.7319,
+    "directional_accuracy": 51.34
+  },
+  {
+    "ticker": "NVDA",
+    "model": "LSTM-Only",
+    "rmse": 75.4976,
+    "mae": 69.8181,
+    "mape": 62.9559,
+    "directional_accuracy": 52.49
+  },
+  {
+    "ticker": "NVDA",
+    "model": "ARIMA",
+    "rmse": 64.0394,
+    "mae": 57.1871,
+    "mape": 49.677,
+    "directional_accuracy": 47.89
+  },
+  {
+    "ticker": "NVDA",
+    "model": "SVR",
+    "rmse": 90.5141,
+    "mae": 81.954,
+    "mape": 71.8476,
+    "directional_accuracy": 49.81
+  },
+  {
+    "ticker": "GOOGL",
+    "model": "LSTM-Sentiment",
+    "rmse": 20.2749,
+    "mae": 16.3941,
+    "mape": 9.5511,
+    "directional_accuracy": 51.72
+  },
+  {
+    "ticker": "GOOGL",
+    "model": "LSTM-Only",
+    "rmse": 76.1359,
+    "mae": 74.4681,
+    "mape": 45.5838,
+    "directional_accuracy": 42.91
+  },
+  {
+    "ticker": "GOOGL",
+    "model": "ARIMA",
+    "rmse": 33.9303,
+    "mae": 30.015,
+    "mape": 17.7866,
+    "directional_accuracy": 40.23
+  },
+  {
+    "ticker": "GOOGL",
+    "model": "SVR",
+    "rmse": 29.8854,
+    "mae": 25.1762,
+    "mape": 14.8664,
+    "directional_accuracy": 55.56
+  }
+]

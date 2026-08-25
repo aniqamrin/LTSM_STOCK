@@ -1,0 +1,29 @@
+# Core data & ML
+yfinance>=0.2.38
+pandas>=2.1.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+tensorflow>=2.15.0
+keras>=2.15.0
+
+# NLP / FinBERT
+transformers>=4.38.0
+torch>=2.2.0
+accelerate>=0.27.0
+
+# Time-series baselines
+statsmodels>=0.14.1
+pmdarima>=2.0.4
+
+# Backend
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+sqlalchemy>=2.0.28
+python-dotenv>=1.0.1
+
+# Utilities
+tqdm>=4.66.2
+plotly>=5.20.0
+matplotlib>=3.8.3
+seaborn>=0.13.2
+joblib>=1.3.2
